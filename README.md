@@ -48,7 +48,9 @@ A professional and interactive command-line tool to **translate code between mul
 
 
 
-   ## 📬 Contact the Developer
+ 
+
+## 📬 Contact the Developer
 
 👤 **Sinthiya Chowdhury**  
 📧 Email: [trytohack15@gmail.com](mailto:trytohack15@gmail.com)  
