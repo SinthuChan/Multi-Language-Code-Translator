@@ -44,12 +44,7 @@ A professional and interactive command-line tool to **translate code between mul
    pip install colorama pygments
 
    python multi_translator.py
-
-
-
-
  
-
 ## 📬 Contact the Developer
 
 👤 **Sinthiya Chowdhury**  
