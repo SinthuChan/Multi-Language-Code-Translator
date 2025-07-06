@@ -33,9 +33,24 @@ A professional and interactive command-line tool to **translate code between mul
 
 ---
 
-## 🧠 Usage
+## ▶️ How to Run
 
-1. **Install dependencies** (if not installed already):
+1. **Make sure you have Python installed** (version 3.6 or higher recommended).  
+   You can download it from [python.org](https://www.python.org/downloads/).
 
-```bash
-pip install colorama pygments
+2. **Install required dependencies** using pip (run in your terminal/command prompt):
+
+   ```bash
+   pip install colorama pygments
+
+   python multi_translator.py
+
+
+
+
+   ## 📬 Contact the Developer
+
+👤 **Sinthiya Chowdhury**  
+📧 Email: [trytohack15@gmail.com](mailto:trytohack15@gmail.com)  
+🌐 GitHub: [SinthuChan](https://github.com/SinthuChan)  
+📘 Facebook: [Sinthiya's Profile](https://www.facebook.com/Myloveayan)
